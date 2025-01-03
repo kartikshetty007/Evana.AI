@@ -1,8 +1,2 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Evana.AI
+Developed a sophisticated AI-powered web application by integrating the Gemini API with a clean, responsive front-end built using React.js. The application leverages advanced AI capabilities for natural language processing, enabling users to interact with the system through conversational interfaces and dynamic data analysis.
